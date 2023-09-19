@@ -1,0 +1,11 @@
+{
+  "name": "demo-electron-puppeteer",
+  "version": "1.0.0",
+  "description": "demo about integrating Electron and Puppeteer",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Li, Ke",
+  "license": "ISC"
+}
